@@ -1,2 +1,2 @@
 # Web-Application-Vulnerabilty-Issue
-In this repository we talking abloub the  Web Application Vulnerabilty Issue you will find in web application during your penetratesting
+This repository show you the Web Application Vulnerabilty Issue which you will find in the process of Web-Application-Penetratesting
