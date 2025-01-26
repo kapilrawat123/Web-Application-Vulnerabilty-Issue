@@ -1,6 +1,6 @@
 OAuth 2.0 provides several grant types to accommodate various scenarios and client types. These grant types define how an application can obtain an access token to access protected resources on behalf of the resource owner. In this task, we will discuss four primary OAuth 2.0 grant types.  
 
-Authorization Code Grant  
+# Authorization Code Grant  
 
 The Authorization Code grant is the most commonly used OAuth 2.0 flow suited for server-side applications (PHP, JAVA, .NET etc). In this flow, the **client redirects the user to the authorization server, where the user authenticates and grants authorization**. The authorization server then redirects the user to the client with an **authorization code**. The client exchanges the authorization code for an access token by requesting the authorization server's token endpoint. 
 
