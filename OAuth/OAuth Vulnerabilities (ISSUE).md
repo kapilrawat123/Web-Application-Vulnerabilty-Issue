@@ -4,8 +4,6 @@
 
 # 🔍Identifying OAuth Usage in an Application
 
-![lens showing how to detect an OAuth framework | 500](https://tryhackme-images.s3.amazonaws.com/user-uploads/62a7685ca6e7ce005d3f3afe/room-content/62a7685ca6e7ce005d3f3afe-1724169604593.png)
-
 The first indication that an application uses OAuth is often found in the login process. Look for options allowing users to log in using external service providers like Google, Facebook, and GitHub. These options typically redirect users to the service provider's authorization page, which strongly signals that OAuth is in use.
 
 ## Detecting OAuth Implementation
