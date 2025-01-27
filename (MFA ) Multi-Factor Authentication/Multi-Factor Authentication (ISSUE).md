@@ -17,7 +17,7 @@ Even though OTPs are designed for one-time use, they aren't immune to brute-forc
 
 ### Lack of Rate Limiting
 
-Without proper rate limiting, an application is open to attackers to keep trying different OTPs without difficulty. If an attacker can submit multiple guesses in a short amount of time, it increases the likelihood that the attacker will be able to get the correct OTP.
+Without proper rate limiting, an application is open to attackers to keep trying different OTPs without difficulty. If an attacker can submit multiple guesses quickly, it increases the likelihood that the attacker will be able to get the correct OTP.
 
 For example, in this HackerOne [report](https://hackerone.com/reports/121696), the tester was able to report a valid bug since the application doesn't employ rate limiting in the checking of the 2FA code.
 
