@@ -180,4 +180,4 @@ This shows an external entity referencing a URL. The `&external;` reference with
 
 ### The image below shows the type of entities in a DOM structure:
 
-![Types of entities in DOM structure]([https://tryhackme-images.s3.amazonaws.com/user-uploads/645b19f5d5848d004ab9c9e2/room-content/645b19f5d5848d004ab9c9e2-1716545852309](https://learn.microsoft.com/en-us/dotnet/standard/data/xml/media/entity-hierarchy.gif))
+![Types of entities in DOM structure](https://learn.microsoft.com/en-us/dotnet/standard/data/xml/media/entity-hierarchy.gif)
