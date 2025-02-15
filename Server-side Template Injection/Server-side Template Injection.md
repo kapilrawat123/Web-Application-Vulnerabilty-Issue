@@ -101,7 +101,7 @@ Unlike Jinja2 or Twig, Pug/Jade directly allows JavaScript execution within its 
 
 
 
-# **Technique for  Identify Template**
+# **Technique for  Identify Template ENGINE**
 
 In most cases, this polyglot payload will trigger an error in presence of a SSTI vulnerability:
 
