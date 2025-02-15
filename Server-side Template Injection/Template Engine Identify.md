@@ -7,4 +7,4 @@ ${{<%[%'"}}%\.
 ```
 
 
-Paste that error in Chat GPT it will tells you which type of Template Engine that website use.
+If you paste that error into the Chat GPT, it will tell you which type of Template Engine that website uses.
