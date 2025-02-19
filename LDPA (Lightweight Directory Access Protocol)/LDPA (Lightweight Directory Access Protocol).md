@@ -457,15 +457,9 @@ print(f"Final successful payload: {successful_chars}")
 
 The above script iteratively guesses the characters of the email by observing the web application's behaviour in response to crafted input.
 
-### Automation
-
-Save the Python code above. If you are using AttackBox, the required Python modules have already been installed. Make sure to use `python3.9` when using the AttackBox since there are multiple Python installations on it.
-
 Below is the sample command on how to run the automation script:
 
-~/Downloads
-
 ```
-user@tryhackme$ ls script.py user@tryhackme$ python3.9 script.py
+user@kaliLinux$ ls script.py user@tryhackme$ python3.9 script.py
 ```
    
