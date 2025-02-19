@@ -460,6 +460,7 @@ The above script iteratively guesses the characters of the email by observing th
 Below is the sample command on how to run the automation script:
 
 ```
-user@kaliLinux$ ls script.py user@tryhackme$ python3.9 script.py
+user@kaliLinux$ ls script.py
+user@kaliLinux$ python3.9 script.py
 ```
    
